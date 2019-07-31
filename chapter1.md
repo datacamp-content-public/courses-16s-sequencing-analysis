@@ -40,3 +40,41 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 224428e878
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+library(dada2)
+```
+
+`@sample_code`
+```{r}
+a<-5
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
