@@ -62,6 +62,7 @@ test if outside pacakges can be installed in datacampe
 `@pre_exercise_code`
 ```{r}
 library(stringr)
+library(tidyverse)
 ```
 
 `@sample_code`
