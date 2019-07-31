@@ -61,7 +61,7 @@ test if outside pacakges can be installed in datacampe
 
 `@pre_exercise_code`
 ```{r}
-library(dada2)
+library(stringr)
 ```
 
 `@sample_code`
@@ -71,7 +71,7 @@ a<-5
 
 `@solution`
 ```{r}
-
+5
 ```
 
 `@sct`
